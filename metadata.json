@@ -1,0 +1,6 @@
+{
+  "name": "WatchKit",
+  "description": "A privacy-first, real-time analytics platform with interactive metrics, detailed pages performance tables, and AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
